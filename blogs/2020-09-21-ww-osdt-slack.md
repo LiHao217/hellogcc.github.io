@@ -12,12 +12,9 @@ OSDT工作组 HelloGCC 3 days ago
 
 Some important starter info:
 
-    - To post on your mailing list, simply send email to
-    
-    hellogcc@freelists.org
-    
-    - Subscribers can join your list by sending email to
-    
+    To post on your mailing list, simply send email to    
+    hellogcc@freelists.org    
+    Subscribers can join your list by sending email to    
     hellogcc-request@freelists.org with ‘subscribe’ in the Subject field OR by visiting your list page at http://www.freelists.org/list/hellogcc
 
 加入Slack的方式：
