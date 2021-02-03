@@ -11,7 +11,6 @@ OSDT工作组 HelloGCC 3 days ago
 订阅邮件列表的方式请参考：
 
 Some important starter info:
-
     - To post on your mailing list, simply send email to
     hellogcc@freelists.org
     - Subscribers can join your list by sending email to
